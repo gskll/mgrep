@@ -1,1 +1,1 @@
-# mgrep
+# mgrep - multithreaded grep
